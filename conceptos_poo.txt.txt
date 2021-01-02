@@ -1,3 +1,5 @@
 Programacion orientada al objeto.
 Concepto numero 1.
 La POO es un paradigma o medelo a seguir para resolver un problema
+Concepto 2.
+La POO es Importante para programar.
