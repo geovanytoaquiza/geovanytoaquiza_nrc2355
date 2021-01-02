@@ -3,3 +3,27 @@ Concepto numero 1.
 La POO es un paradigma o medelo a seguir para resolver un problema
 Concepto 2.
 La POO es Importante para programar.
+
+Actividad 1
+
+Resumen de programación orientado al objeto.
+
+La programación Orientada a objetos se define como un paradigma de la programación, una manera de programar específica, donde se organiza el código en unidades denominadas clases, de las cuales se crean objetos que se relacionan entre sí para conseguir los objetivos de las aplicaciones.
+La Programación Orientada a Objetos es un paradigma de programación que viene a innovar la forma de obtener resultados. 
+Los objetos se utilizan como metáfora para emular las entidades reales del negocio a modelar.
+Es en este modo de ver un programa donde este paradigma difiere del paradigma imperativo o estructurado, en los que los datos y los métodos están separados y sin relación.
+Los paradigmas más utilizados en el mundo es la programación orientada a los objetos.
+Los objetos tienes datos y sus funcionalidades, y también tener atributos y métodos para poder programar.
+Teniendo funcionalidad de programar de clases para poder realizar plantillas de clase con la instancia de los objetos.
+
+
+Resumen
+
+Se puede crear clases para poder plantillas para ser más fácil de programar.
+Un objeto es una unidad dentro de un programa informático que tiene un estado, y un comportamiento. Es decir, tiene una serie de datos almacenados y tareas que realiza con esos datos en el tiempo de ejecución. Es decir, de una misma clase, podemos instanciar varios objetos.
+Los atributos son las características individuales que diferencian un objeto de otro y determinan su apariencia, estado u otras cualidades. Los atributos se guardan en variables denominadas de instancia, y cada objeto particular puede tener valores distintos para estas variables.
+La abstracción consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan.
+En programación modular, y más específicamente en programación orientada a objetos, se denomina encapsulamiento al ocultamiento del estado, es decir, de los datos miembro de un objeto de manera que solo se pueda cambiar mediante las operaciones definidas para ese objeto.
+En programación orientada a objetos, el polimorfismo se refiere a la propiedad por la que es posible enviar mensajes sintácticamente iguales a objetos de tipos distintos. 
+El único requisito que deben cumplir los objetos que se utilizan de manera polimórfica es saber responder al mensaje que se les envía.
+La herencia es específica de la programación orientada a objetos, donde una clase nueva se crea a partir de una clase existente.
